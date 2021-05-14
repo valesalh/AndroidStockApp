@@ -16,7 +16,6 @@ import java.util.ArrayList;
 import edu.sjsu.android.stockviewer.MainActivity;
 import edu.sjsu.android.stockviewer.WatchlistDB;
 import edu.sjsu.android.stockviewer.WatchlistItem;
-import edu.sjsu.android.stockviewer.databinding.FragmentWatchlistBinding;
 
 public class WatchlistViewModel extends ViewModel implements LoaderManager.LoaderCallbacks<Cursor> {
 
