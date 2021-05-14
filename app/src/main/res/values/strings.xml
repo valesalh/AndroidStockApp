@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Stock Viewer</string>
+    <string name="title_search">Search</string>
+    <string name="title_watchlist">Watchlist</string>
+    <string name="notice">IMPORTANT: This app uses a free API key that only allows 5 API calls/minute &amp; 500 API calls/day. As a result,
+    please limit yourself to 2 searches/minute. Results may take a few seconds to fetch and process.</string>
+    <string name="warning">Please wait a minute and try again. This app can only perform roughly 2 searches/minute
+        due to restrictions placed by the free API key that is used.</string>
+</resources>
