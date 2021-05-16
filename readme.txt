@@ -1,1 +1,1 @@
-The APK, backlog, and final report can all be found in the RESOURCES folder.
+The APK, backlog, final report, and video demonstration can all be found in the RESOURCES folder.
